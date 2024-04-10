@@ -54,25 +54,31 @@ What is data type?
 Data type is basicaly the representation of data and the operation of the data.
 
 Primitive Data Type 
+
     a. Intigers, Byte, Long, Float, Double
     b. Boolean, Characters
 
 **Representaion**
 
 int X;
+
     a. Memory - 4 bytes
 
+
 char s[10];
+
     b. Memory = 2 bytes
 
 **Operations**
 
 int X;
+
     - Arithmetic Operations:
     +,-,*,/,%
 
     - Relational Operators
     <, ==, >, !=
+
 
 char s[10];
 
