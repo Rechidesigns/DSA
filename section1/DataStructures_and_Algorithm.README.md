@@ -9,21 +9,25 @@ Applications are programs that accesses the data efficently.
 
 
 **Data structures are divided into two categories**
+
     1. Linear Data Structures
     2. Non Linear Data Structures
 
 *Linear Data Structures*
+
     a. Stacks
     b. Queues
     c. Linked Lists
 
 *Non Linear Data Structures*
+
     a. Trees
     b. Heeps
     c. Graphs
 
 
 **what is Algorithms**
+
 to solve any problem in computing you need to device or plan certain steps. algorithms is a set of instructions or rules that perform a particular task or operation in a finit amount of time
 
 key points:
@@ -32,6 +36,7 @@ key points:
     execute finite amount of time
 
 **Why Algorithm?**
+
 we need a mechanism to compare algorithms and to prediction the performance. we must the amount of time an algorithm takes to complete a task.
 
 key points:
@@ -41,6 +46,7 @@ key points:
 
 
 **Abstract Data Type-ADT**
+
 What is data type?
 Data type is basicaly the representation of data and the operation of the data.
 
@@ -50,6 +56,7 @@ Primitive Data Type
 
 
 *Representaion*
+
 int X;
 a. Memory - 4 bytes
 
@@ -57,6 +64,7 @@ char s[10];
 b. Memory = 2 bytes
 
 *Operations*
+
 int X;
     - Arithmetic Operations:
     +,-,*,/,%
