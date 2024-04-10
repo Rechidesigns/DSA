@@ -12,12 +12,12 @@ Applications are programs that accesses the data efficently.
     1. Linear Data Structures
     2. Non Linear Data Structures
 
-**Linear Data Structures**
+*Linear Data Structures*
     a. Stacks
     b. Queues
     c. Linked Lists
 
-**Non Linear Data Structures**
+*Non Linear Data Structures*
     a. Trees
     b. Heeps
     c. Graphs
@@ -39,3 +39,42 @@ key points:
     Predict Performance
     Time and amount of resources
 
+
+**Abstract Data Type-ADT**
+What is data type?
+Data type is basicaly the representation of data and the operation of the data.
+
+Primitive Data Type 
+    a. Intigers, Byte, Long, Float, Double
+    b. Boolean, Characters
+
+
+*Representaion*
+int X;
+a. Memory - 4 bytes
+
+char s[10];
+b. Memory = 2 bytes
+
+*Operations*
+int X;
+    - Arithmetic Operations:
+    +,-,*,/,%
+
+    - Relational Operators
+    <, ==, >, !=
+
+char s[10];
+    - Arithemetic Operator:
+    + (which is used for concatination)
+    Length()
+    Capacity()
+    Search()
+
+
+**Abstraction**
+Abstract simply means hiding details.
+it is a fundamental principle of Object Oriented Programming. in OOP we can can define our own classes and create objects of those classes, meaning we can create our own data types.
+
+*Abstract Data Types*
+when abstraction is applied to design of data structures we get abstract data types
