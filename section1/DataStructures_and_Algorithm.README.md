@@ -26,7 +26,7 @@ Applications are programs that accesses the data efficently.
     c. Graphs
 
 
-**what is Algorithms**
+## What is Algorithms
 
 to solve any problem in computing you need to device or plan certain steps. algorithms is a set of instructions or rules that perform a particular task or operation in a finit amount of time
 
