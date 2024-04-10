@@ -50,7 +50,7 @@ key points:
 
 ## Abstract Data Type-ADT
 
-What is data type?
+**What is data type?**
 Data type is basicaly the representation of data and the operation of the data.
 
 Primitive Data Type 
@@ -96,4 +96,13 @@ it is a fundamental principle of Object Oriented Programming. in OOP we can can 
 
 **Abstract Data Types**
 
-when abstraction is applied to design of data structures we get abstract data types
+when abstraction is applied to design of data structures we get abstract data types, abstract data types can also be called as mathematical model of Data Structures.
+
+**Abstract Data Types Specifies:**
+
+    a. Type of data represented or stored
+    b. Operations Supported
+    c. Parameters for operations
+
+*ADT specifies WHAT each operation does, NOT HOW operations are done.*
+
