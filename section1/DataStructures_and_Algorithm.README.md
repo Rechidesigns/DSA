@@ -73,8 +73,10 @@ char s[10];
 
 
 **Abstraction**
+
 Abstract simply means hiding details.
 it is a fundamental principle of Object Oriented Programming. in OOP we can can define our own classes and create objects of those classes, meaning we can create our own data types.
 
 *Abstract Data Types*
+
 when abstraction is applied to design of data structures we get abstract data types
