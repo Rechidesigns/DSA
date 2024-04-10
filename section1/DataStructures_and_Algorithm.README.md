@@ -1,0 +1,1 @@
+Data Structure is a method to store information
