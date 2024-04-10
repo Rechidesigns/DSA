@@ -60,10 +60,10 @@ Primitive Data Type
 **Representaion**
 
 int X;
-a. Memory - 4 bytes
+    a. Memory - 4 bytes
 
 char s[10];
-b. Memory = 2 bytes
+    b. Memory = 2 bytes
 
 **Operations**
 
@@ -75,6 +75,7 @@ int X;
     <, ==, >, !=
 
 char s[10];
+
     - Arithemetic Operator:
     + (which is used for concatination)
     Length()
