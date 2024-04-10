@@ -38,7 +38,7 @@ key points:
     execute finite amount of time
 
 
-**Why Algorithm?**
+## Why Algorithm?
 
 we need a mechanism to compare algorithms and to prediction the performance. we must the amount of time an algorithm takes to complete a task.
 
