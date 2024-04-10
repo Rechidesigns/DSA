@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Works\\DSA\\section1\\section1dsa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB11FAE0-CF87-4CCF-9485-0DD19A2781CC}|section1dsa\\section1dsa.csproj|c:\\users\\hp\\desktop\\works\\dsa\\section1\\section1dsa\\section1dsa\\dsasection1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB11FAE0-CF87-4CCF-9485-0DD19A2781CC}|section1dsa\\section1dsa.csproj|solutionrelative:section1dsa\\dsasection1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB11FAE0-CF87-4CCF-9485-0DD19A2781CC}|section1dsa\\section1dsa.csproj|c:\\users\\hp\\desktop\\works\\dsa\\section1\\section1dsa\\section1dsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB11FAE0-CF87-4CCF-9485-0DD19A2781CC}|section1dsa\\section1dsa.csproj|solutionrelative:section1dsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DsaSection1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Works\\DSA\\section1\\section1dsa\\section1dsa\\DsaSection1.cs",
+              "RelativeDocumentMoniker": "section1dsa\\DsaSection1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Works\\DSA\\section1\\section1dsa\\section1dsa\\DsaSection1.cs",
+              "RelativeToolTip": "section1dsa\\DsaSection1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:49:23.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Works\\DSA\\section1\\section1dsa\\section1dsa\\Program.cs",
+              "RelativeDocumentMoniker": "section1dsa\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Works\\DSA\\section1\\section1dsa\\section1dsa\\Program.cs",
+              "RelativeToolTip": "section1dsa\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:45:01.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
