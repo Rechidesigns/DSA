@@ -117,7 +117,7 @@ The runtime of the algorithm grows propotionally with the inpute
 
 **Asymtotic: Approaching a value with some limit**
 
-## Types of seneros.
+## Types of Sceneros.
 
 Best Case: Lower bond, here the inpute is easier.
 
@@ -138,6 +138,3 @@ Sometimes the best and the worst case may be seen. but we should be more concern
     Big - Theta 0( ) The Theta notation measures between the upper and lower bond asymtotic growth, also called a tigth bond.
 
 
-## Asymptotic Notations - Big Oh 0( )
-
-Uderstanding the Big Oh 0( )
