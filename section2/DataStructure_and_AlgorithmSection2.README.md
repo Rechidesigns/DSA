@@ -62,19 +62,19 @@ We assume that the parameter are basic operations based on constraints time.
 
 **it has frequency of operations, the operations that are considered as parameters are**
 
-Declarations
+    Declarations
 
-Assignment
+    Assignment
 
-Arithmetic Operations
+    Arithmetic Operations
 
-Comparison Statemnts
+    Comparison Statemnts
 
-Accessing elements
+    Accessing elements
 
-Calling function 
+    Calling function 
 
-Returning functions
+    Returning functions
 
 
 ## Algorithms Order of Growth
