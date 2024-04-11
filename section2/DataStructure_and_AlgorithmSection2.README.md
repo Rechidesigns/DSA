@@ -138,3 +138,18 @@ Sometimes the best and the worst case may be seen. but we should be more concern
     Big - Theta 0( ) The Theta notation measures between the upper and lower bond asymtotic growth, also called a tigth bond.
 
 
+## Measuring Space Complexity
+
+    Boolean      1
+
+    Byte         1
+
+    Char         2
+
+    Int          4
+
+    Float        4
+
+    long         8
+
+    Double       8
