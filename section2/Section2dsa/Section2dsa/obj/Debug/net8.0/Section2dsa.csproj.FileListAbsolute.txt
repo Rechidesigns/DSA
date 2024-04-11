@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\bin\Debug\net8.0\Section2dsa.exe
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\bin\Debug\net8.0\Section2dsa.deps.json
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\bin\Debug\net8.0\Section2dsa.runtimeconfig.json
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\bin\Debug\net8.0\Section2dsa.dll
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\bin\Debug\net8.0\Section2dsa.pdb
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\obj\Debug\net8.0\Section2dsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\obj\Debug\net8.0\Section2dsa.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\obj\Debug\net8.0\Section2dsa.AssemblyInfo.cs
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\obj\Debug\net8.0\Section2dsa.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\obj\Debug\net8.0\Section2dsa.sourcelink.json
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\obj\Debug\net8.0\Section2dsa.dll
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\obj\Debug\net8.0\refint\Section2dsa.dll
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\obj\Debug\net8.0\Section2dsa.pdb
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\obj\Debug\net8.0\Section2dsa.genruntimeconfig.cache
+C:\Users\HP\Desktop\Works\DSA\section2\Section2dsa\Section2dsa\obj\Debug\net8.0\ref\Section2dsa.dll
