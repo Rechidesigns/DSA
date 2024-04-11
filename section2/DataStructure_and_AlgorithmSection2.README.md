@@ -117,11 +117,11 @@ The runtime of the algorithm grows propotionally with the inpute
 
 **Asymtotic: Approaching a value with some limit**
 
-Types of seneros.
+## Types of seneros.
 
 Best Case: Lower bond, here the inpute is easier.
 
-WOrst Case: Upper bond, where the inpute is worst difficult
+Worst Case: Upper bond, where the inpute is worst difficult
 
 Average Case: Is where the bound is between the best case and the worst case. meaning bwteen Lower and Upper bond.
 
