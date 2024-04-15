@@ -153,3 +153,29 @@ Sometimes the best and the worst case may be seen. but we should be more concern
     long         8
 
     Double       8
+
+
+## Time Comlexity
+
+**Linear time**
+this is the amout of time it takes to execute the impute, as the inpute increases the amount of time increases and this is represented in a linear method.
+
+The x axis is the impute represented as n
+
+And the y axis is the time it took the function on average in micro seconds
+
+*Time Complexity = a way of showing how the runtime of the function increases.*
+
+linear time is expressed as **O(n)**
+
+**Constant Time**
+
+This is when the amount of time it takes to complete a function does not increase at all or the time stays at constant.
+
+Constant time is expressed as **O(1)**
+
+**Quadratic Time Complexity**
+
+This is when the amount of time it takes to complete a function increases quadratically.
+
+Quadratic time is also expressed as **O(n²)**
