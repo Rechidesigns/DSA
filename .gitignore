@@ -1,22 +1,9 @@
-.vs/
-bin/
-obj/
-.vs/
+# Ignore .NET specific folders and files
 .vs/
 bin/
 obj/
 .VS/
-.VS/
-.vs/
+
+# Ignore specific files
 section1dsa
-Section2dsa/
-bin/
-bin/
-obj/
-obj/
 .vs/
-.vs/
-.vs/
-
-.vs/
-
