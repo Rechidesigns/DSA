@@ -65,40 +65,75 @@ using System.Threading.Tasks;
 //////////////////////////////////////    SumofNumbers     ////////////////////////////
 
 
+//namespace section1dsa
+//{
+//    class SumofNumbers
+//    {
+//        public int sumn(int n)
+//        {
+//            return n * (n + 1) / 2;
+//        }
+
+//        public int sumiteration(int n)
+//        {
+//            int total = 0;
+//            int i = 1;
+//            while (i <= n)
+//            {
+//                total = total + i;
+//                i = i + 1;
+//            }
+//            return total;
+//        }
+
+//        public int sumnrecursion(int n)
+//        {
+//            if (n == 0)
+//                return 0;
+//            return sumnrecursion(n - 1) + n;
+//        }
+
+//        static void Main(string[] args)
+//        {
+//            SumofNumbers s = new SumofNumbers();
+//            Console.WriteLine("Sum: " + s.sumn(5));
+//            Console.WriteLine("Sum: " + s.sumiteration(5));
+//            Console.WriteLine("Sum: " + s.sumiteration(5));
+//            Console.ReadKey();
+
+//        }
+//    }
+//}
+
+
+
+
+
+
 namespace section1dsa
 {
-    class SumofNumbers
+    class Factorial
     {
-        public int sumn(int n)
+        public int factorialiterative(int n)
         {
-            return n * (n + 1) / 2;
+            int fact = 1;
+            for (int i = 1; i <= n; i++)
+                fact = fact * i;
+            return fact;
         }
 
-        public int sumiteration(int n)
-        {
-            int total = 0;
-            int i = 1;
-            while (i <= n)
-            {
-                total = total + i;
-                i = i + 1;
-            }
-            return total;
-        }
-
-        public int sumnrecursion(int n)
+        public int factorialrecursive(int n)
         {
             if (n == 0)
-                return 0;
-            return sumnrecursion(n - 1) + n;
+                return 1;
+            return factorialrecursive(n - 1) * n;
         }
 
         static void Main(string[] args)
         {
-            SumofNumbers s = new SumofNumbers();
-            Console.WriteLine("Sum: " + s.sumn(5));
-            Console.WriteLine("Sum: " + s.sumiteration(5));
-            Console.WriteLine("Sum: " + s.sumiteration(5));
+            Factorial f = new Factorial();
+            Console.WriteLine("Factorial: " + f.factorialiterative(5));
+            Console.WriteLine("Factorial: " + f.factorialrecursive(5));
             Console.ReadKey();
 
         }
